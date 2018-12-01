@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5823bbf4-5170-40ea-a009-3ab7bfa25c3c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PyGwent.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,27 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PyGwent.py" />
+    <Compile Include="ai.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="grafika.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="jatek.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="kartyak.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="main.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="jatekos.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="szabalyok.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
