@@ -1,0 +1,11 @@
+﻿Biting Frost: ha leteszed, a közelharci (cc) egységek ereje lecsökken 1-re (Skellige frakciónál feleződik)
+Impenetrable Fog: ha leteszed, a távolsági (rc) egységek ereje lecsökken 1-re (Skellige frakciónál feleződik)
+Torrential Rain: ha leteszed, az ostrom (s) egységek ereje lecsökken 1-re (Skellige frakciónál feleződik)
+Skellige Storm: ha leteszed, a közelharci (cc) és a távolsági (rc) egységek ereje lecsökken 1-re (Skellige frakciónál feleződik)
+Clear Weather: Visszaállítja az egységek eredeti erejét, ellehetetleníti az időjárásváltoztató kártyák lerakását
+Scorch: elégeti a táblán található legerősebb kártyát(kártyákat) (Hős kártyákat figyelmen kívül hagyja)
+Monster pakliban: Crone: ha leteszed, automatikusan leidéz maga mellé egy Fiend-et
+Neutral pakliban: Cow: ha leteszed, a következő körben automatikusan leidézi a Bovine Defense Force-t
+Neutral pakliban: Dandelion: ha leteszed, a közelharci egységek erejét megduplázza (a sajátját is)
+Neutral pakliban: Gaunter O'Dimm: ha leteszed, a következő körben automatikusan leidéz két darab Darkness kártyát
+Neutral pakliban: Villmerth: ha leteszed, az ellenfeled közelharci egységei közül a legerősebbet elégeti

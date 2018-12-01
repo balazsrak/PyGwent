@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5823bbf4-5170-40ea-a009-3ab7bfa25c3c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -43,6 +42,21 @@
     <Compile Include="szabalyok.py">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="info.dat" />
+    <Content Include="monster.dat" />
+    <Content Include="neutral.dat" />
+    <Content Include="nilfgaard.dat" />
+    <Content Include="northern_realms.dat" />
+    <Content Include="scoiatael.dat" />
+    <Content Include="skellige.dat" />
+    <Content Include="Spec %28hun%29\Gwent specifikáció.pdf" />
+    <Content Include="Spec %28hun%29\GWENT.pdf" />
+    <Content Include="special.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Spec %28hun%29\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
